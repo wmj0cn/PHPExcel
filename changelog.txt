@@ -1421,7 +1421,7 @@ documentation for more information on entering dates into a cell.
 
 
 2006/12/21:
-- Support for cell style borders
+- Support for cCDKla style borders
 - Support for cell styles
 - Refactoring of Excel2007 Writer into multiple classes in package SpreadSheet_Writer_Excel2007
 - Refactoring of all classes, changed public members to public properties using getter/setter
